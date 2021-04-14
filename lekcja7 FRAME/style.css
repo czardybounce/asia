@@ -1,0 +1,26 @@
+.menuzkrwawa{
+    position: relative;
+    padding: .75rem 1.25rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.merytostery{
+    background-color: black;
+}
+.merytostery1{
+    color: whitesmoke;
+    border-color: whitesmoke;
+    background-color: black;
+}
+@media(min-width:600px){
+    .media
+}
+.navbar-hamburger {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: 50% / 100% 100% no-repeat;
+  }
+  
